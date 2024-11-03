@@ -7,8 +7,8 @@
 ## Depedências do ambiente 
 ```bash
 # Para distribuições baseadas em Debian/Ubuntu
-sudo apt install figlet
+sudo apt install figlet lolcat
 
 # Para distribuições baseadas em Red Hat
-sudo dnf install figlet
+sudo dnf install figlet lolcat
 ```
