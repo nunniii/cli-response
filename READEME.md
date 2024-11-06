@@ -1,0 +1,1 @@
+Certifique-se de que a fonte esteja instalada no diretório `/usr/share/figlet`
