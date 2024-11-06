@@ -3,7 +3,7 @@ use std::io::{self, Write};
 
 fn main() {
     // Caminho absoluto para a fonte mono9.tlf
-    let font_path = "mono9.tlf";
+    let font_path = "/data/data/com.termux/files/home/bin/banner_cli/mono9.tlf";
 
     // Executar o comando figlet com a fonte e largura desejadas, e capturar a saída
     let output = Command::new("figlet")
